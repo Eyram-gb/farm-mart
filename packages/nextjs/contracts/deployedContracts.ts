@@ -5,9 +5,9 @@
 import { GenericContractsDeclaration } from "~~/utils/scaffold-eth/contract";
 
 const deployedContracts = {
-  31337: {
+  11155111: {
     FarmMart: {
-      address: "0x5FbDB2315678afecb367f032d93F642f64180aa3",
+      address: "0x5A90c235A46975f300e123589930AadcD4db0983",
       abi: [
         {
           anonymous: false,

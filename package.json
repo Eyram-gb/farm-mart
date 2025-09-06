@@ -56,5 +56,10 @@
   "packageManager": "yarn@3.2.3",
   "engines": {
     "node": ">=20.18.3"
+  },
+  "dependencies": {
+    "@pinata/sdk": "^2.1.0",
+    "ethers": "^6.15.0",
+    "pinata": "^2.5.0"
   }
 }
